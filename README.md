@@ -1,4 +1,4 @@
-# PIZZA SALES
+# Pizza Sales Analysis and Dashboard Development
 This project focuses on analyzing pizza sales data from January to December 2015 to provide actionable insights for improving business performance. Leveraging Power BI, a comprehensive sales dashboard was developed to visualize and interpret key performance indicators (KPIs) such as total revenue, total orders, average order value, and pizza sales distribution.
 
 The analysis highlights several important trends:
